@@ -1,6 +1,2 @@
-*.pdf
-*.png
 .DS_Store
 .Rhistory
-volcano_plots/
-gene_volcano_plots/
